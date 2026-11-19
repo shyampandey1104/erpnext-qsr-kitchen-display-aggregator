@@ -1,0 +1,1 @@
+qsr_kitchen_aggregator.patches.v1_0.setup_initial_defaults

@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include qsr_kitchen_aggregator *.css
+recursive-include qsr_kitchen_aggregator *.csv
+recursive-include qsr_kitchen_aggregator *.html
+recursive-include qsr_kitchen_aggregator *.ico
+recursive-include qsr_kitchen_aggregator *.js
+recursive-include qsr_kitchen_aggregator *.json
+recursive-include qsr_kitchen_aggregator *.md
+recursive-include qsr_kitchen_aggregator *.png
+recursive-include qsr_kitchen_aggregator *.py
+recursive-include qsr_kitchen_aggregator *.svg
+recursive-include qsr_kitchen_aggregator *.txt
+recursive-exclude qsr_kitchen_aggregator *.pyc
